@@ -1,2 +1,2 @@
 # non_restoring_divider
-Verilog code for non restoring divider
+Verilog code for non restoring Divider
